@@ -1,0 +1,12 @@
+{
+    "name": "letie/movie",
+    "authors": [
+        {
+            "name": "letieu",
+            "email": "letieu8@gmail.com"
+        }
+    ],
+    "require": {
+        "kub-at/php-simple-html-dom-parser": "^1.9"
+    }
+}
