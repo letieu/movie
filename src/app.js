@@ -85,3 +85,7 @@ function addMail(){
         console.log(response)
     })
 }
+
+window.onload = ()=>{
+    find('wonder woman')
+}
